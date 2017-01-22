@@ -1,0 +1,171 @@
+.wrapper { 
+		width:1200px; margin:auto; 
+		}
+
+#navbar {border-top: 1px solid black;
+		border-bottom: 1px solid black;
+		margin-left: 220px;
+		width: 720px;}
+		
+
+#navbar ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+    padding: 0;
+	}
+
+#navbar li {
+	font-family: Arial;
+    display: inline;
+	padding: 43px;
+	}
+
+#navbar a {
+	text-decoration: none
+	}
+
+#navbar a:link {
+	color: #000000
+		}
+	
+#navbar a:visited {
+	color: #000000
+		}
+
+#banner img { width:720px;
+	height:165px;
+	margin-left:220px;
+		padding:none;
+		}
+
+#homepic img {width:1200px;
+height:600px}
+		
+#p1 { text-align: center;
+	font-family: lucida handwriting;
+	}
+	
+#footerbar ul {
+    list-style-type: none;
+    text-align:center;
+	padding-top: 20px;
+    padding: 10px;
+	}
+
+#footerbar li {
+    display: inline;
+	padding: 43px;
+	color: #FFFFFF
+	}
+
+#footerbar a { text-decoration: none;
+			}
+
+#footerbar a:link { color: #FFFFFF;
+		}
+	
+#footerbar a:visited {color: #FFFFFF;
+		}
+
+	
+.footer {
+	font-family: arial;
+	font-size: small;
+	background-color: #1C9AA8;
+	color: #FFFFFF;
+	text-align: center;}
+	
+	
+table {
+font-family:arial;
+}
+
+img {width:280px;height:220px;}
+
+a:visited {
+	color: #000000;
+	}
+
+a:link: {
+	color: #000000;
+	}
+	
+p {font-family:arial;
+}
+
+h2 {font-family:arial;
+}
+
+h3 {font-family: arial;
+	color: #1C9AA8;
+	text-transform:uppercase
+	}
+
+li {font-family: arial;
+}
+
+#p2 {text-indent: 30px;
+}
+
+#p3 {font-style: italic;
+	font-size: 12px;
+	}
+	
+#content img {float:right;
+			width: 600px;
+			height: 550px;
+			padding-top: 55px
+			}
+
+hr {border: 0; 
+height: 1px; 
+background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); 
+}
+
+#about h3 {font-family: arial;
+	color: #1C9AA8;
+    text-transform:uppercase;
+		text-align:center; 
+		}
+	
+#aboutpic img {
+	display: block;
+    margin: 0 auto;
+	width:250px;
+	height:340px; 
+ }
+
+#p4 {font-family:arial;
+	text-align:center;
+}
+
+#knot img {margin-left: 225px;
+	height: 100px;
+	width: 90px;
+	}
+	
+#portfolio a {margin-left:135px; 
+padding:none; 
+margin-top:0;}
+
+td { text-align: center;
+vertical-align: center; }
+
+.formlabel {
+         font-weight:bold;
+         width: 190px;
+         margin-bottom: 12px;
+         float: left;
+         text-align: left;
+         clear: left; }
+.formfield {
+         font-weight:normal;
+         margin-bottom: 12px;
+         float: left;
+         text-align: left; }
+
+input, textarea {
+         border: 1px solid black; }
+		 
+.submit {
+		margin-left: 190px; }
