@@ -1,4 +1,4 @@
-# Cooper-Website
+# HTML-Example
 Created a website from scratch as a class project. Was asked to be used as an example for future classes
 ##Link
 http://citwebdev.cscc.edu/~ecooper10/csci1145/project7/home.html
