@@ -1,7 +1,7 @@
 # HTML-Example
 Created a website from scratch as a class project. Was asked to be used as an example for future classes
 ##Link
-http://citwebdev.cscc.edu/~ecooper10/csci1145/project7/home.html
+http://citwebdev.cscc.edu/~ecooper10/csci1145/project6/home.html
 ##Screenshots
 ![screenshot 2](https://cloud.githubusercontent.com/assets/21373002/22187402/9703bdd8-e0d3-11e6-8afa-2fe000d60aad.png)
 ![screenshot 1](https://cloud.githubusercontent.com/assets/21373002/22187406/afd27282-e0d3-11e6-94b5-1a8a080590fb.png)
